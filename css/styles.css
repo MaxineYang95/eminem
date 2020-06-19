@@ -1,7 +1,14 @@
 h1 {
   color: #5c2a9d;
-
+  font-family: 'Arial', sans-serif;
 }
+
+#Em {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 100px;
+}
+
+
 
 h2 {
   color: #5c2a9d;
@@ -10,11 +17,47 @@ h2 {
 body {
   font-family: 'Merriweather', Serif;
   text-align: center;
+
+}
+
+marquee {
+  margin: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin: 50px auto 50px auto;
+  width: 30%;
+}
+
+li {
+  font-size: 18px;
+}
+
+ul {
+  margin-bottom: 50px;
 }
 
 .eminem1 {
   width: 20%;
 }
+
+.eminem2 {
+  margin-left: 200px;
+
+}
+
+
+.eminem3 {
+  margin-right: 200px;
+}
+
+.Quotes {
+  margin: 100px auto 0;
+  font-size: 30px;
+}
+
+
 
 .btn {
   background: #828282;
